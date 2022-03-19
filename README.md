@@ -1,4 +1,4 @@
-# fcc-projects
+# fcc-projects-js
 
 These are my 5 solutions to the last exercises of freeCodeCamp's JavaScript Data Structures and Algorithms certification.
 I'm pretty proud of them and they are my first steps on JS programming.
